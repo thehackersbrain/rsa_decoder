@@ -37,7 +37,7 @@ python3 main.py -f enc.txt -d xxxx -m xxxx
 ## Credits
 **Author : [HackerBrain](https://github.com/hackers-brain/)**
 
-**Website : [gauravraj.rf.gd](http://gauravraj.rf.gd/)
+**Website : [gauravraj.rf.gd](http://gauravraj.rf.gd/)**
 
 **HackersBrain : [HackTheBox](https://www.hackthebox.eu/profile/303514)**
 
